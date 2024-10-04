@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Naruto",
+    "year": "2002",
+    "description": "The story of a young ninja striving to become the Hokage.",
+    "genres": ["Action", "Adventure"],
+    "director": "Hayato Date",
+    "rating": 8.3,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg"
+  },
+  {
+    "title": "One Piece",
+    "year": "1999",
+    "description": "Monkey D. Luffy, a young pirate, embarks on a quest for the ultimate treasure.",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "director": "Kōnosuke Uda",
+    "rating": 8.9,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg"
+  },
+  {
+    "title": "Attack on Titan",
+    "year": "2013",
+    "description": "Humanity is on the brink of extinction after giant humanoid Titans invade their territory.",
+    "genres": ["Action", "Drama", "Fantasy"],
+    "director": "Tetsurō Araki",
+    "rating": 8.5,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
+  },
+  {
+    "title": "Death Note",
+    "year": "2006",
+    "description": "A high school student discovers a mysterious notebook that allows him to kill anyone by writing their name.",
+    "genres": ["Supernatural", "Psychological", "Thriller"],
+    "director": "Tetsurō Araki",
+    "rating": 8.6,
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg"
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "year": "2009",
+    "description": "Two brothers search for the Philosopher's Stone after a failed attempt to bring their mother back to life.",
+    "genres": ["Action", "Adventure"],
+    "director": "Yasuhiro Irie",
+    "rating": 9.1,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg"
+  },
+  {
+    "title": "Sword Art Online",
+    "year": "2012",
+    "description": "Players are trapped in a virtual reality MMORPG, where they must fight to survive.",
+    "genres": ["Action", "Fantasy", "Game"],
+    "director": "Tomohiko Itō",
+    "rating": 7.2,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/39717.jpg"
+  },
+  {
+    "title": "Oshi no Ko",
+    "year": "2023",
+    "description": "A doctor and a star idol are reborn in an unexpected way, leading to a life of fame and mystery.",
+    "genres": ["Drama", "Supernatural"],
+    "director": "Daisuke Hiramaki",
+    "rating": 8.9,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg"
+  },
+  {
+    "title": "One Punch Man",
+    "year": "2015",
+    "description": "A hero can defeat any enemy with a single punch but struggles with the monotony of his invincible life.",
+    "genres": ["Action", "Comedy"],
+    "director": "Shingo Natsume",
+    "rating": 8.5,
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/76049.jpg"
+  },
+  {
+    "title": "Boku no Hero Academia",
+    "year": "2016",
+    "description": "In a world where nearly everyone has superpowers, a boy born without them fights to become a hero.",
+    "genres": ["Action", "Superhero", "Shounen"],
+    "director": "Kenji Nagasaki",
+    "rating": 7.9,
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg"
+  },
+  {
+    "title": "Tokyo Ghoul",
+    "year": "2014",
+    "description": "A college student becomes a half-ghoul after a violent encounter and must navigate the dangerous world of ghouls.",
+    "genres": ["Action", "Horror", "Supernatural"],
+    "director": "Shuhei Morita",
+    "rating": 7.8,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/64449.jpg"
+  },
+  {
+    "title": "Hunter x Hunter",
+    "year": "2011",
+    "description": "A young boy sets out on a journey to find his father and become a Hunter, an elite class of adventurer.",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "director": "Hiroshi Koujina",
+    "rating": 9.1,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg"
+  },
+  {
+    "title": "Kimi no Na wa",
+    "year": "2016",
+    "description": "Two teenagers share a profound connection as they mysteriously swap bodies and try to find each other.",
+    "genres": ["Drama", "Romance", "Supernatural"],
+    "director": "Makoto Shinkai",
+    "rating": 8.9,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/87048.jpg"
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "year": "2020",
+    "description": "A boy swallows a cursed object and joins a secret organization of sorcerers to defeat evil spirits.",
+    "genres": ["Action", "Fantasy", "Supernatural"],
+    "director": "Seong-Hu Park",
+    "rating": 8.8,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg"
+  },
+  {
+    "title": "Steins;Gate",
+    "year": "2011",
+    "description": "A group of friends accidentally create a device that lets them send messages to the past, triggering unintended consequences.",
+    "genres": ["Sci-Fi", "Thriller", "Drama"],
+    "director": "Hiroshi Hamasaki",
+    "rating": 9.1,
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/73199.jpg"
+  },
+  {
+    "title": "Code Geass: Hangyaku no Lelouch",
+    "year": "2006",
+    "description": "Lelouch, a prince exiled from Britannia, gains a mysterious power and leads a rebellion against the empire.",
+    "genres": ["Action", "Mecha", "Sci-Fi"],
+    "director": "Gorō Taniguchi",
+    "rating": 8.7,
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/9391.jpg"
+  },
+  {
+    "title": "Shigatsu wa Kimi no Uso",
+    "year": "2014",
+    "description": "A piano prodigy, traumatized by his mother's death, rediscovers his passion for music through a free-spirited violinist.",
+    "genres": ["Drama", "Romance", "Music"],
+    "director": "Kyohei Ishiguro",
+    "rating": 8.6,
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/67177.jpg"
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "year": "2016",
+    "description": "A boy is transported to another world where he discovers that he has the ability to return to a specific point in time every time he dies.",
+    "genres": ["Adventure", "Fantasy", "Psychological"],
+    "director": "Masaharu Watanabe",
+    "rating": 8.2,
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/79410.jpg"
+  },
+  {
+    "title": "Haikyuu!!",
+    "year": "2014",
+    "description": "A short boy with a passion for volleyball forms a team with a former rival and aims to reach the national tournament.",
+    "genres": ["Sports", "Comedy", "Drama"],
+    "director": "Susumu Mitsunaka",
+    "rating": 8.4,
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+  },
+  {
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "year": "2016",
+    "description": "A boy dies and is reincarnated into a fantasy world where he teams up with an odd group of adventurers.",
+    "genres": ["Comedy", "Fantasy", "Adventure"],
+    "director": "Takaomi Kanasaki",
+    "rating": 8.1,
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/77831.jpg"
+  },
+  {
+    "title": "Dr. Stone",
+    "year": "2019",
+    "description": "In a post-apocalyptic world where humanity has been petrified, a young scientist embarks on a quest to rebuild civilization using science.",
+    "genres": ["Adventure", "Sci-Fi", "Shounen"],
+    "director": "Shinya Iino",
+    "rating": 8.3,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg"
+  },
+  {
+    "title": "Kage no Jitsuryokusha ni Naritakute!",
+    "year": "2022",
+    "description": "A boy obsessed with becoming the mastermind behind the shadows is reincarnated in a fantasy world where he gets the chance to live out his dream.",
+    "genres": ["Action", "Comedy", "Fantasy"],
+    "director": "Kazuya Nakanishi",
+    "rating": 7.8,
+    "image_url": "https://cdn.myanimelist.net/images/anime/1874/121869.jpg"
+  }
+  
+]

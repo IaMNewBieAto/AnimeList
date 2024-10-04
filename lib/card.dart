@@ -7,7 +7,7 @@ class CardWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: const Text('Card in ListView')),
+        appBar: AppBar(title: const Text('Car in ListView')),
         body: ListView.builder(
           itemCount: 10, // You can specify the number of cards
           itemBuilder: (context, index) {
